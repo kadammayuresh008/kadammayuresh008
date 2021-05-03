@@ -1,5 +1,5 @@
 ### Hi Mayuresh here 👋
-- 🔭 I’m currently working on My machine and deep learning Skills
+- 🔭 I’m currently working on app Development
 - 📫 reach me: <kadammayuresh199@gmail.com>
 
 ![](https://komarev.com/ghpvc/?username=kadammayuresh008&color=dc143c)
